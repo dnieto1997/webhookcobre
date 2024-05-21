@@ -1,0 +1,98 @@
+[
+    {
+        "posicion":1,
+        "descripcion":"Pago online",
+        "ico":"icon-dribbble",
+        "entidad":[
+            {
+                "posicion":1,
+                "descripcion": "PSE",
+                "componente":"PAYTY",
+                "img":"assets/pse2.png"
+            },
+            {
+                "posicion":1,
+                "descripcion": "PSE",
+                "componente":"COBRE",
+                "img":"assets/pse2.png",
+                "bank":""
+            },
+            {
+                "posicion":2,
+                "descripcion": "NEQUI",
+                "componente":"COBRE",
+                "img":"assets/nequi.svg",
+                "bank": "1507"
+            },
+            {
+                "posicion":2,
+                "descripcion": "NEQUI",
+                "componente":"PAYTY",
+                "img":"assets/nequi.svg"
+            },
+            {
+                "posicion":3,
+                "descripcion": "DAVIPLATA",
+                "componente":"COBRE",
+                "img":"assets/daviplata.svg",
+                "bank": "1551"
+            },
+            {
+                "posicion":3,
+                "descripcion": "DAVIPLATA",
+                "componente":"PAYTY",
+                "img":"assets/daviplata.svg"
+            },
+            {
+                "posicion":3,
+                "descripcion": "BANCOLOMBIA",
+                "componente":"COBRE",
+                "img":"assets/bancolombia.svg",
+                "bank": "1007"
+            },
+            {
+                "posicion":4,
+                "descripcion": "BANCO AV VILLAS",
+                "componente":"COBRE",
+                "img":"assets/avvillas.svg",
+                "bank": "1052"
+            },
+            {
+                "posicion":5,
+                "descripcion": "BANCO DE BOGOTA",
+                "componente":"COBRE",
+                "img":"assets/bancobogota.svg",
+                "bank": "1001"
+            },
+            {
+                "posicion":6,
+                "descripcion": "COLPATRIA",
+                "componente":"COBRE",
+                "img":"assets/colpatria.svg",
+                "bank": "1019"
+            },
+            {
+                "posicion":7,
+                "descripcion": "BANCO DE OCCIDENTE",
+                "componente":"COBRE",
+                "img":"assets/occidente.svg",
+                "bank": "1023"
+            }
+        ]
+    },
+    {
+    "posicion":2,
+    "descripcion":"Pago efectivo",
+    "ico":"icon-usd",
+    "entidad":[
+       
+        {
+            "posicion":1,
+            "descripcion": "EFECTY",
+            "componente":"TUP_EFECTIVO",
+            "img":"assets/efecty.png"
+        }
+    ]
+}
+
+]
